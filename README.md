@@ -5,7 +5,7 @@ Tutorial "Local Library" website written in in Node/Express.
 cd express-locallibrary-tutorial
 npm install
 
-On linux/MacOS
+# On linux/MacOS
 DEBUG=express-locallibrary-tutorial:* npm start
 ----
 
